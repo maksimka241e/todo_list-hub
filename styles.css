@@ -295,6 +295,50 @@ body{
     font-weight: 500;
     font-family: "Fira Sans", sans-serif;
 }
+/* block4 */
+.minBlock2Footer{
+    margin-top: 15px;
+    background: #fff;
+    padding: 10px;
+    width: auto;
+    display: flex;  
+    flex-direction: row;
+}
+.minContentBlFooter{
+    width: 100%;
+    max-width: 48px;
+}
+.numberTitle2Fot{
+    cursor: pointer;
+    color: #333333;
+    margin: 0;
+    font-size: 17px;
+    font-family: "Fira Sans", sans-serif;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    transition: all 0.3s;
+}
+.imgContentBlContents2{
+    padding-left: 10px;
+}
+.imgContentBlContents1f {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: row;
+}
+.ulFot{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin-top: 10px;
+    padding: 0px;
+}
+.liFo{
+    text-align: start;
+    list-style-type:none;
+    color: #548EAA;
+    cursor: pointer;
+}
 @media(max-width:1030px) {
     .titleAndCreateT2{
         font-size: 18px;
